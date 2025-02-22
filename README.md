@@ -49,3 +49,10 @@ The Schematic Should be like this
 
 To Access the Website u need to be connected to ESP8266 WiFi first, then you need to input ESP8266 Local IP Address by default it's 192.168.1.1 on your browser, then it should show the Web Interface
 
+## Final Thought
+
+The Project looks really cool outside having Website as the Controller enables users to modify the schedule, view the current time, and trigger sound outputs with ease, inside the code really messy but at the end of the day it work, there's a lot way to improvise this Project.
+
+## Photo
+
+Here's photo taken when i tested it in my School. 
