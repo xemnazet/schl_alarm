@@ -1,5 +1,5 @@
 # IMPORTANT 
-> *This documentation provides an overview of the School Schedule Project created for a school project. The project uses the ESP8266 microcontroller to display a schedule on an LCD 16x2 screen and plays associated sounds or messages using the DFPlayer Mini MP3 module, and RTC module for tracking the times. Additionally, I add web interface to control the schedule remotely using local Address. The system allows users to view the schedule and modify it using a website.*
+> *This documentation provides an overview of the School Schedule Project created for School. The project uses the ESP8266 microcontroller to display a schedule on an LCD 16x2 screen and plays associated sounds or messages using the DFPlayer Mini MP3 module, and RTC module for tracking the times. Additionally, I add web interface to control the schedule remotely using local Address. The system allows users to view the schedule and modify it using a website.*
 
 Hello this is my first project that requested directly by School and still used till now in my School, The system may not be perfect, and there’s a lot room for improvements, but it’s working as intended for now.
 
